@@ -1,6 +1,6 @@
 Hi there 👋
 💬 Ask me about Clean Architecture, Java, Angular and SpringBoot
-📫 How to reach me: Nahuel Gamarra
+📫 How to reach me: @nahuelgamarra
 🔭 I’m currently working at MobyDigital
 🌱 I’m currently learning Python and Web scraping
 
