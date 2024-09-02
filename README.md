@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+ 
 
 ### <div align="center">I'm Nahuel Gamarra, a full-time backend-focused full-stack developer 👨‍💻 with a passion for building powerful and scalable systems. 🚀</div>  
   
